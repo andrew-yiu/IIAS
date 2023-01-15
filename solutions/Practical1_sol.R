@@ -7,7 +7,7 @@
 ###########################
 
 set.seed(1)
-lalonde <- read.table(file = "~/Downloads/lalonde_nsw.csv") # change filepath accordingly
+lalonde <- read.table(file = "~/Downloads/IIAS-main/data/lalonde_nsw.csv") # change filepath accordingly
 
 ## Question 1(i): compute the difference-in-means estimator
 
