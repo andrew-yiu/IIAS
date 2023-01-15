@@ -7,7 +7,7 @@
 #################
 
 set.seed(1)
-lalonde <- read.table(file = "~/Downloads/lalonde_nsw.csv") # change filepath accordingly
+lalonde <- read.table(file = "~/Downloads/IIAS-main/data/lalonde_nsw.csv") # change filepath accordingly
 
 y <- lalonde$re78
 y <- y/1000 # rescale y to $1000 units
