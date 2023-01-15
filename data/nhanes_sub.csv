@@ -1,0 +1,501 @@
+"X" "physically.active" "years.lived.since.1971.up.to.1992" "sex" "smoking.status" "income.poverty.ratio" "age.at.interview" "race" "education" "working.last.three.months" "married" "alcohol.consumption" "dietary.adequacy"
+"1" 1 0 8 "Female" "Never" NA 74 "Nonwhite" "0-8" FALSE FALSE "Never" 2
+"2" 3 1 16 "Male" "Current" 1.52 74 "White" "9-11" FALSE TRUE "Just about everyday/everyday" 5
+"3" 4 1 21 "Male" "Current" 3.11 53 "Nonwhite" "12" TRUE TRUE "1-4 times per month" 3
+"4" 6 1 13 "Male" "Never" 9.18 65 "White" "College Grad" TRUE FALSE "2+ times per week" 2
+"5" 7 1 21 "Female" "Current" 2.62 47 "Nonwhite" "9-11" TRUE TRUE "Never" 4
+"6" 8 1 17 "Male" "Current" 2.62 53 "Nonwhite" "9-11" TRUE TRUE "Just about everyday/everyday" 2
+"7" 9 1 15 "Female" "Never" 1.26 60 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 2
+"8" 10 0 21 "Female" "Never" 2.13 56 "White" "12" FALSE TRUE "<1 time per month" 2
+"9" 11 0 21 "Female" "Never" 0.72 69 "White" "College Grad" FALSE FALSE "Never" 1
+"10" 12 0 14 "Male" "Never" 1.35 73 "White" "0-8" FALSE FALSE "2+ times per week" 4
+"11" 13 1 10 "Male" "Never" 0.52 66 "White" "12" FALSE TRUE "Never" 5
+"12" 14 0 1 "Female" "Never" 1.26 54 "Nonwhite" "0-8" FALSE TRUE "Never" 5
+"13" 15 0 21 "Female" "Never" 0.77 48 "White" "9-11" FALSE FALSE "Never" 5
+"14" 16 1 10 "Female" "Current" 1.63 68 "White" "0-8" FALSE TRUE "<1 time per month" 2
+"15" 17 0 21 "Male" "Never" 2.05 54 "Nonwhite" "9-11" TRUE TRUE "Never" 5
+"16" 18 1 10 "Male" "Never" 1.48 67 "Nonwhite" "12" TRUE TRUE "Never" 5
+"17" 19 1 21 "Female" "Never" 6.41 48 "White" "12" TRUE TRUE "Just about everyday/everyday" 5
+"18" 20 1 19 "Male" "Never" 7.7 48 "White" "12" TRUE FALSE "2+ times per week" 5
+"19" 21 1 21 "Male" "Former" 2.65 69 "White" "12" TRUE TRUE "Never" 5
+"20" 22 0 8 "Female" "Former" 2.58 61 "White" "9-11" TRUE FALSE "Just about everyday/everyday" 4
+"21" 23 1 10 "Male" "Current" 4.55 51 "White" "Some College" TRUE TRUE "1-4 times per month" 5
+"22" 24 1 21 "Female" "Never" 8.24 51 "White" "Some College" FALSE TRUE "Just about everyday/everyday" 4
+"23" 25 1 21 "Female" "Never" 4.58 56 "White" "12" FALSE TRUE "Just about everyday/everyday" 4
+"24" 26 1 21 "Female" "Never" 1.85 49 "White" "12" FALSE TRUE "Just about everyday/everyday" 5
+"25" 27 1 21 "Male" "Never" 1.5 69 "Nonwhite" "0-8" FALSE TRUE "Never" 3
+"26" 28 1 1 "Male" "Current" 2.62 70 "White" "9-11" FALSE TRUE "2+ times per week" 5
+"27" 29 1 8 "Male" "Former" NA 72 "White" "9-11" FALSE TRUE "1-4 times per month" 4
+"28" 30 1 21 "Female" "Never" 1.43 66 "White" "9-11" FALSE TRUE "Never" 5
+"29" 31 1 21 "Female" "Never" 0.95 60 "White" "9-11" TRUE FALSE "Never" 5
+"30" 32 0 13 "Male" "Current" 1.74 51 "White" "9-11" FALSE TRUE "2+ times per week" 4
+"31" 33 1 21 "Female" "Never" 1.74 47 "Nonwhite" "12" FALSE TRUE "1-4 times per month" 3
+"32" 34 0 12 "Female" "Never" NA 66 "White" "0-8" FALSE FALSE "Never" 5
+"33" 35 1 16 "Male" "Never" 5.39 59 "White" "0-8" TRUE FALSE "Never" 5
+"34" 36 1 21 "Female" "Never" 4.58 57 "White" "12" TRUE TRUE "<1 time per month" 0
+"35" 37 1 7 "Male" "Never" 3.47 71 "White" "0-8" FALSE TRUE "<1 time per month" 5
+"36" 38 1 21 "Female" "Never" 2.67 67 "White" "0-8" FALSE FALSE "<1 time per month" 5
+"37" 39 1 21 "Female" "Current" 3.58 47 "White" "12" TRUE TRUE "<1 time per month" 5
+"38" 40 1 21 "Female" "Current" NA 49 "White" "Some College" TRUE FALSE "Never" 4
+"39" 42 1 16 "Male" "Current" 2.65 74 "White" "12" FALSE TRUE "1-4 times per month" 4
+"40" 43 1 21 "Female" "Never" 2.65 70 "White" "0-8" FALSE TRUE "1-4 times per month" 2
+"41" 44 1 11 "Female" "Never" 3.15 70 "White" "9-11" FALSE FALSE "Never" 5
+"42" 45 1 13 "Female" "Never" 1.81 71 "White" "0-8" FALSE TRUE "Never" 2
+"43" 46 1 2 "Male" "Current" 4.58 64 "White" "9-11" FALSE TRUE "1-4 times per month" 4
+"44" 47 0 11 "Male" "Current" 0.87 49 "White" "9-11" FALSE TRUE "2+ times per week" 5
+"45" 48 1 2 "Male" "Former" 0.87 58 "Nonwhite" "0-8" FALSE FALSE "Never" 5
+"46" 49 1 21 "Female" "Never" 3.02 49 "White" "9-11" FALSE TRUE "Just about everyday/everyday" 4
+"47" 51 1 21 "Male" "Never" 3.47 66 "White" "9-11" TRUE TRUE "Just about everyday/everyday" 5
+"48" 52 1 21 "Male" "Never" 3.85 60 "White" "Some College" TRUE TRUE "1-4 times per month" 5
+"49" 53 1 21 "Male" "Current" 4.58 47 "White" "9-11" TRUE FALSE "Just about everyday/everyday" 1
+"50" 54 0 9 "Male" "Current" 1.69 70 "White" "9-11" FALSE FALSE "<1 time per month" 5
+"51" 55 1 21 "Male" "Never" 2.62 71 "White" "9-11" FALSE TRUE "2+ times per week" 4
+"52" 56 1 21 "Female" "Never" 2.62 65 "White" "9-11" FALSE TRUE "2+ times per week" 3
+"53" 57 1 17 "Female" "Never" 1.94 70 "White" "12" FALSE FALSE "2+ times per week" 3
+"54" 58 1 8 "Male" "Current" 1.81 73 "White" "0-8" FALSE TRUE "Never" 5
+"55" 59 1 18 "Male" "Current" 2.56 47 "White" "12" TRUE TRUE "Just about everyday/everyday" 4
+"56" 60 1 1 "Female" "Never" 0.36 71 "Nonwhite" "0-8" FALSE FALSE "Just about everyday/everyday" 5
+"57" 61 0 7 "Male" "Current" 3.11 58 "White" "Some College" TRUE FALSE "Just about everyday/everyday" 5
+"58" 62 1 15 "Female" "Former" 4.58 52 "White" "12" TRUE TRUE "Just about everyday/everyday" 1
+"59" 63 1 21 "Female" "Never" 1.04 48 "White" "College Grad" TRUE FALSE "<1 time per month" 4
+"60" 64 0 21 "Male" "Never" 3.85 53 "White" "College Grad" TRUE TRUE "<1 time per month" 5
+"61" 65 1 21 "Male" "Current" 3.85 60 "White" "Some College" TRUE FALSE "2+ times per week" 5
+"62" 66 1 21 "Male" "Former" NA 48 "White" "Missing" FALSE TRUE "Just about everyday/everyday" 5
+"63" 67 1 15 "Male" "Current" 4.58 53 "White" "9-11" TRUE FALSE "2+ times per week" 5
+"64" 68 1 21 "Female" "Never" 2.05 46 "White" "12" TRUE TRUE "Never" 1
+"65" 69 1 21 "Female" "Never" 2 63 "White" "0-8" FALSE TRUE "Never" 1
+"66" 70 1 14 "Male" "Never" 0.73 70 "White" "0-8" FALSE TRUE "2+ times per week" 5
+"67" 71 0 11 "Female" "Never" 0.94 74 "White" "0-8" FALSE TRUE "<1 time per month" 0
+"68" 72 0 21 "Female" "Never" 0.2 66 "White" "0-8" FALSE TRUE "Never" 1
+"69" 73 1 21 "Female" "Current" 1.42 56 "White" "12" FALSE TRUE "<1 time per month" 4
+"70" 74 1 4 "Female" "Never" 1.97 50 "White" "12" FALSE TRUE "<1 time per month" 2
+"71" 75 1 21 "Male" "Current" 6.04 47 "White" "College Grad" TRUE TRUE "<1 time per month" 4
+"72" 76 1 14 "Male" "Current" 2.62 53 "White" "0-8" TRUE TRUE "Just about everyday/everyday" 5
+"73" 77 1 21 "Female" "Never" 3.11 52 "White" "0-8" FALSE TRUE "<1 time per month" 4
+"74" 78 1 21 "Male" "Never" 2.62 57 "White" "9-11" TRUE TRUE "1-4 times per month" 5
+"75" 79 1 16 "Male" "Never" 3.58 71 "Nonwhite" "0-8" TRUE TRUE "Never" 5
+"76" 80 1 21 "Male" "Former" 4.61 47 "White" "Some College" TRUE TRUE "Just about everyday/everyday" 3
+"77" 81 0 14 "Male" "Current" NA 57 "White" "12" TRUE TRUE "1-4 times per month" 5
+"78" 82 1 21 "Female" "Never" 2.07 48 "White" "12" TRUE FALSE "1-4 times per month" 5
+"79" 83 0 21 "Female" "Current" 1.38 64 "White" "0-8" FALSE FALSE "Never" 3
+"80" 84 0 21 "Female" "Never" 1.6 51 "White" "12" FALSE TRUE "<1 time per month" 3
+"81" 85 1 13 "Male" "Former" 3.11 61 "White" "9-11" TRUE TRUE "Just about everyday/everyday" 3
+"82" 86 1 21 "Female" "Never" 3.11 46 "White" "12" FALSE TRUE "<1 time per month" 2
+"83" 87 1 17 "Male" "Current" 4.58 62 "White" "12" TRUE TRUE "Never" 5
+"84" 88 1 15 "Male" "Never" 2.62 69 "White" "0-8" FALSE TRUE "<1 time per month" 5
+"85" 92 0 21 "Male" "Former" 2.62 61 "White" "College Grad" TRUE TRUE "2+ times per week" 4
+"86" 94 1 18 "Male" "Former" NA 61 "White" "9-11" TRUE TRUE "Just about everyday/everyday" 5
+"87" 95 1 9 "Male" "Never" 2.04 70 "White" "College Grad" FALSE TRUE "1-4 times per month" 5
+"88" 96 0 1 "Female" "Never" 2.28 53 "White" "9-11" FALSE TRUE "<1 time per month" 0
+"89" 97 0 21 "Female" "Former" NA 61 "White" "College Grad" TRUE FALSE "2+ times per week" 5
+"90" 98 0 21 "Male" "Never" 2.62 48 "White" "College Grad" FALSE TRUE "1-4 times per month" 5
+"91" 99 0 7 "Male" "Current" 0.19 60 "White" "12" FALSE FALSE "Just about everyday/everyday" 4
+"92" 100 1 18 "Female" "Never" NA 63 "White" "12" TRUE TRUE "Just about everyday/everyday" 4
+"93" 101 0 21 "Male" "Former" 9.98 47 "White" "College Grad" TRUE FALSE "Just about everyday/everyday" 5
+"94" 102 0 18 "Male" "Current" 0.7 65 "Nonwhite" "0-8" FALSE FALSE "<1 time per month" 3
+"95" 103 1 13 "Female" "Never" 0.89 74 "Nonwhite" "9-11" TRUE FALSE "Never" 5
+"96" 104 1 20 "Female" "Never" 1.29 57 "Nonwhite" "9-11" TRUE FALSE "1-4 times per month" 4
+"97" 106 1 16 "Male" "Former" 1.84 72 "White" "9-11" FALSE FALSE "2+ times per week" 5
+"98" 107 1 18 "Male" "Never" 2 68 "White" "0-8" TRUE TRUE "1-4 times per month" 5
+"99" 110 1 21 "Male" "Former" 5.1 67 "Nonwhite" "0-8" TRUE TRUE "Never" 5
+"100" 112 1 14 "Female" "Never" 1.69 71 "White" "12" FALSE FALSE "<1 time per month" 4
+"101" 113 1 21 "Male" "Former" 3.02 47 "White" "12" TRUE TRUE "Just about everyday/everyday" 5
+"102" 114 0 21 "Female" "Current" 3.85 48 "Nonwhite" "9-11" FALSE TRUE "2+ times per week" 3
+"103" 115 1 21 "Male" "Current" 1.26 52 "Nonwhite" "0-8" TRUE TRUE "1-4 times per month" 4
+"104" 116 1 21 "Male" "Current" 4.55 54 "Nonwhite" "College Grad" TRUE TRUE "2+ times per week" 4
+"105" 118 1 19 "Female" "Never" 3.85 62 "White" "12" FALSE TRUE "1-4 times per month" 5
+"106" 119 1 21 "Female" "Never" 0.69 67 "White" "9-11" FALSE FALSE "<1 time per month" 2
+"107" 120 1 15 "Male" "Former" 0.8 69 "Nonwhite" "0-8" FALSE FALSE "Never" 2
+"108" 121 0 5 "Male" "Never" 2.62 71 "White" "0-8" FALSE TRUE "Just about everyday/everyday" 4
+"109" 122 1 21 "Female" "Never" 5.1 64 "Nonwhite" "9-11" FALSE TRUE "Never" 5
+"110" 123 1 11 "Male" "Current" 0.46 48 "Nonwhite" "12" FALSE TRUE "1-4 times per month" 5
+"111" 124 1 18 "Female" "Never" 4.58 59 "White" "0-8" FALSE TRUE "Never" 4
+"112" 125 1 21 "Male" "Former" 6.41 51 "White" "9-11" TRUE TRUE "2+ times per week" 5
+"113" 126 1 21 "Female" "Current" 3.11 57 "Nonwhite" "9-11" FALSE TRUE "1-4 times per month" 3
+"114" 127 1 21 "Female" "Never" 1.9 53 "Nonwhite" "9-11" TRUE FALSE "1-4 times per month" 1
+"115" 128 1 21 "Male" "Never" 3.9 52 "White" "0-8" TRUE FALSE "1-4 times per month" 4
+"116" 129 0 21 "Female" "Never" NA 48 "White" "0-8" FALSE TRUE "Never" 3
+"117" 130 1 3 "Male" "Current" 1.74 56 "White" "9-11" TRUE TRUE "2+ times per week" 3
+"118" 131 1 21 "Male" "Current" 6.41 50 "White" "9-11" TRUE TRUE "1-4 times per month" 5
+"119" 132 1 21 "Female" "Current" 4.58 56 "White" "0-8" TRUE TRUE "Just about everyday/everyday" 4
+"120" 133 1 19 "Female" "Never" NA 62 "Nonwhite" "0-8" TRUE TRUE "<1 time per month" 1
+"121" 134 0 8 "Female" "Never" NA 67 "Nonwhite" "Missing" FALSE FALSE "Never" 2
+"122" 135 1 6 "Male" "Current" 1.4 71 "Nonwhite" "0-8" FALSE TRUE "Just about everyday/everyday" 2
+"123" 136 1 14 "Female" "Never" 9.05 65 "White" "Some College" TRUE TRUE "Just about everyday/everyday" 4
+"124" 138 1 21 "Male" "Current" NA 66 "White" "0-8" FALSE TRUE "Just about everyday/everyday" 4
+"125" 139 1 20 "Female" "Current" 0.78 66 "White" "0-8" TRUE FALSE "Just about everyday/everyday" 3
+"126" 140 1 16 "Male" "Current" 3.47 65 "White" "Some College" FALSE TRUE "Just about everyday/everyday" 5
+"127" 141 1 2 "Male" "Never" 1.22 67 "White" "9-11" FALSE TRUE "<1 time per month" 5
+"128" 142 1 21 "Female" "Never" 4.58 58 "White" "12" FALSE TRUE "Just about everyday/everyday" 4
+"129" 143 1 21 "Male" "Current" 1.65 47 "White" "Some College" TRUE TRUE "Just about everyday/everyday" 4
+"130" 144 0 21 "Male" "Never" 3.06 71 "White" "0-8" TRUE FALSE "<1 time per month" 3
+"131" 145 1 13 "Male" "Former" 1.74 53 "White" "9-11" TRUE TRUE "2+ times per week" 5
+"132" 146 1 16 "Male" "Former" 3.11 60 "White" "0-8" TRUE TRUE "2+ times per week" 5
+"133" 147 1 12 "Female" "Never" 1.55 72 "White" "0-8" FALSE FALSE "Just about everyday/everyday" 3
+"134" 149 1 13 "Male" "Never" 8.24 63 "White" "9-11" TRUE TRUE "Never" 3
+"135" 150 1 17 "Male" "Former" 5.1 65 "White" "College Grad" FALSE TRUE "Just about everyday/everyday" 2
+"136" 152 0 17 "Male" "Current" 3.02 62 "White" "9-11" FALSE TRUE "Just about everyday/everyday" 3
+"137" 153 1 21 "Male" "Former" 4.58 64 "White" "College Grad" FALSE TRUE "Just about everyday/everyday" 5
+"138" 154 1 5 "Male" "Never" NA 74 "White" "Missing" FALSE TRUE "<1 time per month" 1
+"139" 155 1 21 "Female" "Current" 3.23 54 "White" "9-11" TRUE FALSE "Just about everyday/everyday" 5
+"140" 156 0 3 "Female" "Former" 0.57 70 "White" "0-8" FALSE FALSE "<1 time per month" 3
+"141" 157 1 21 "Male" "Former" 1.26 48 "Nonwhite" "9-11" TRUE TRUE "1-4 times per month" 4
+"142" 158 1 21 "Male" "Former" 2.05 47 "White" "9-11" TRUE TRUE "2+ times per week" 5
+"143" 159 1 21 "Female" "Never" 0.5 66 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 3
+"144" 160 1 14 "Male" "Never" 1.52 71 "Nonwhite" "9-11" FALSE TRUE "Never" 2
+"145" 161 0 8 "Male" "Current" 1.99 66 "White" "0-8" FALSE TRUE "Just about everyday/everyday" 3
+"146" 163 0 19 "Female" "Never" NA 69 "White" "College Grad" FALSE FALSE "Never" 4
+"147" 164 0 21 "Female" "Never" 1.99 51 "White" "12" FALSE TRUE "<1 time per month" 0
+"148" 166 0 8 "Male" "Never" 1.42 67 "White" "0-8" FALSE TRUE "Never" 4
+"149" 167 1 13 "Female" "Never" 4.43 49 "Nonwhite" "Some College" TRUE TRUE "1-4 times per month" 4
+"150" 169 1 18 "Male" "Former" 6.2 58 "White" "12" TRUE TRUE "Just about everyday/everyday" 3
+"151" 172 1 21 "Male" "Current" 1.99 61 "Nonwhite" "Some College" TRUE TRUE "Just about everyday/everyday" 4
+"152" 173 1 8 "Male" "Former" 4.94 66 "White" "12" TRUE TRUE "2+ times per week" 5
+"153" 174 1 21 "Female" "Current" 4.08 51 "Nonwhite" "9-11" TRUE FALSE "<1 time per month" 5
+"154" 175 1 21 "Female" "Never" 3.47 49 "White" "Some College" FALSE TRUE "<1 time per month" 2
+"155" 176 1 21 "Male" "Current" 5.22 56 "White" "9-11" TRUE TRUE "Never" 5
+"156" 177 1 21 "Male" "Current" 2.54 55 "Nonwhite" "9-11" TRUE TRUE "2+ times per week" 4
+"157" 178 0 21 "Female" "Never" 2 67 "Nonwhite" "0-8" FALSE TRUE "Never" 5
+"158" 179 0 21 "Male" "Former" 4.09 51 "White" "College Grad" TRUE TRUE "<1 time per month" 4
+"159" 180 0 21 "Female" "Current" 0.52 55 "White" "9-11" FALSE FALSE "1-4 times per month" 0
+"160" 181 1 21 "Male" "Current" 6.2 58 "White" "12" TRUE TRUE "Just about everyday/everyday" 2
+"161" 182 1 11 "Male" "Current" 3.01 46 "Nonwhite" "12" TRUE TRUE "2+ times per week" 4
+"162" 183 1 21 "Female" "Never" 0.93 65 "White" "12" FALSE FALSE "1-4 times per month" 5
+"163" 184 1 17 "Female" "Never" 1.24 65 "White" "0-8" FALSE FALSE "1-4 times per month" 5
+"164" 185 1 19 "Male" "Never" 0.52 68 "White" "0-8" FALSE TRUE "Just about everyday/everyday" 3
+"165" 186 0 5 "Female" "Never" 1.61 69 "White" "0-8" FALSE TRUE "<1 time per month" 5
+"166" 187 1 8 "Male" "Never" 0.23 59 "White" "0-8" TRUE FALSE "Never" 5
+"167" 188 0 20 "Female" "Former" 0.64 66 "White" "9-11" FALSE FALSE "<1 time per month" 4
+"168" 189 1 21 "Male" "Never" 6.04 58 "White" "0-8" TRUE TRUE "Just about everyday/everyday" 5
+"169" 190 1 21 "Female" "Current" 3.47 54 "White" "0-8" TRUE TRUE "Never" 5
+"170" 191 1 21 "Male" "Current" 1.9 52 "White" "0-8" FALSE TRUE "<1 time per month" 4
+"171" 192 1 21 "Female" "Never" 5.1 68 "White" "College Grad" FALSE TRUE "<1 time per month" 5
+"172" 193 1 21 "Male" "Former" 1.17 51 "White" "12" TRUE TRUE "<1 time per month" 5
+"173" 194 1 7 "Male" "Never" 2.38 65 "White" "0-8" FALSE TRUE "2+ times per week" 5
+"174" 195 1 18 "Male" "Never" 4.23 58 "White" "Some College" TRUE TRUE "1-4 times per month" 5
+"175" 196 1 21 "Male" "Never" 4.58 51 "White" "0-8" TRUE TRUE "1-4 times per month" 3
+"176" 197 1 19 "Male" "Former" 4.58 49 "White" "12" TRUE TRUE "1-4 times per month" 5
+"177" 198 1 15 "Male" "Current" 4.23 65 "White" "9-11" TRUE TRUE "1-4 times per month" 4
+"178" 199 1 21 "Female" "Never" 3.01 53 "White" "12" FALSE TRUE "<1 time per month" 5
+"179" 200 1 16 "Male" "Former" 7.7 65 "White" "College Grad" TRUE TRUE "Just about everyday/everyday" 5
+"180" 201 1 10 "Male" "Current" 0.58 57 "Nonwhite" "Missing" FALSE TRUE "<1 time per month" 5
+"181" 202 1 21 "Female" "Current" 5.44 59 "Nonwhite" "12" FALSE TRUE "<1 time per month" 5
+"182" 204 1 21 "Male" "Former" 4.34 71 "White" "0-8" FALSE FALSE "2+ times per week" 5
+"183" 205 0 19 "Male" "Never" 2.69 71 "White" "9-11" FALSE TRUE "2+ times per week" 5
+"184" 206 1 21 "Female" "Never" 2.07 61 "White" "0-8" FALSE FALSE "<1 time per month" 4
+"185" 208 1 21 "Male" "Former" 4.58 59 "White" "0-8" TRUE TRUE "2+ times per week" 5
+"186" 209 1 21 "Female" "Never" 3.47 59 "White" "9-11" FALSE TRUE "2+ times per week" 2
+"187" 210 1 20 "Male" "Former" 6.04 47 "White" "College Grad" FALSE TRUE "<1 time per month" 4
+"188" 211 0 21 "Female" "Former" 3.02 49 "White" "12" FALSE TRUE "<1 time per month" 4
+"189" 212 1 21 "Male" "Current" 1.69 59 "Nonwhite" "0-8" TRUE TRUE "2+ times per week" 5
+"190" 213 1 12 "Male" "Former" 2.58 46 "White" "9-11" TRUE TRUE "2+ times per week" 5
+"191" 214 1 21 "Male" "Current" 1.85 49 "White" "0-8" TRUE TRUE "1-4 times per month" 4
+"192" 215 1 5 "Male" "Never" 2.45 67 "White" "0-8" TRUE TRUE "Never" 4
+"193" 216 1 21 "Female" "Never" 1.31 67 "White" "9-11" FALSE TRUE "<1 time per month" 2
+"194" 217 1 21 "Male" "Never" 2.4 56 "White" "0-8" TRUE FALSE "Never" 3
+"195" 218 1 21 "Female" "Never" 1.55 50 "White" "12" TRUE TRUE "1-4 times per month" 2
+"196" 219 0 17 "Female" "Never" 2.28 46 "White" "12" FALSE TRUE "Never" 3
+"197" 220 1 21 "Female" "Never" 1.94 52 "White" "0-8" FALSE FALSE "1-4 times per month" 2
+"198" 221 1 21 "Female" "Never" NA 52 "White" "12" TRUE TRUE "1-4 times per month" 4
+"199" 222 1 21 "Female" "Never" 1.28 69 "White" "12" TRUE FALSE "<1 time per month" 4
+"200" 223 1 14 "Male" "Never" 9.98 71 "White" "College Grad" TRUE TRUE "Never" 5
+"201" 224 1 21 "Male" "Current" 3.02 46 "White" "12" TRUE TRUE "1-4 times per month" 0
+"202" 225 1 17 "Male" "Never" 0.48 69 "White" "0-8" FALSE FALSE "Never" 4
+"203" 226 1 21 "Female" "Never" 3.85 50 "White" "9-11" TRUE TRUE "2+ times per week" 2
+"204" 227 1 21 "Female" "Never" 2.72 54 "White" "12" TRUE TRUE "<1 time per month" 3
+"205" 228 1 11 "Male" "Former" 3.85 59 "White" "9-11" TRUE TRUE "Just about everyday/everyday" 4
+"206" 229 1 8 "Female" "Current" 0.51 51 "Nonwhite" "9-11" FALSE FALSE "1-4 times per month" 3
+"207" 230 1 21 "Male" "Former" 4.58 47 "White" "9-11" TRUE TRUE "1-4 times per month" 4
+"208" 231 1 21 "Female" "Never" 5.39 58 "White" "12" FALSE TRUE "Never" 5
+"209" 232 1 21 "Female" "Never" 1.98 53 "White" "9-11" TRUE FALSE "Never" 2
+"210" 233 1 8 "Female" "Never" 1.89 60 "White" "9-11" TRUE FALSE "1-4 times per month" 3
+"211" 234 1 21 "Male" "Never" 5.38 50 "White" "Some College" TRUE TRUE "<1 time per month" 4
+"212" 235 0 9 "Male" "Never" 8.41 70 "White" "Some College" FALSE TRUE "Never" 4
+"213" 236 0 2 "Female" "Never" 3.02 73 "White" "9-11" FALSE FALSE "Never" 2
+"214" 237 0 21 "Male" "Current" 1.76 68 "White" "0-8" FALSE TRUE "1-4 times per month" 3
+"215" 238 1 14 "Female" "Never" 2.55 74 "White" "12" FALSE FALSE "<1 time per month" 3
+"216" 239 1 21 "Male" "Current" 1.74 51 "White" "Some College" TRUE TRUE "1-4 times per month" 5
+"217" 240 1 18 "Male" "Never" 2.05 56 "White" "0-8" TRUE TRUE "<1 time per month" 4
+"218" 241 1 21 "Male" "Former" 6.41 57 "White" "12" TRUE TRUE "1-4 times per month" 4
+"219" 242 1 21 "Female" "Never" 3.01 45 "White" "12" TRUE TRUE "1-4 times per month" 1
+"220" 243 1 14 "Male" "Former" 6.41 60 "White" "Some College" TRUE TRUE "Just about everyday/everyday" 4
+"221" 244 1 17 "Male" "Former" 1.37 68 "White" "0-8" FALSE TRUE "<1 time per month" 0
+"222" 245 1 21 "Female" "Never" 2.07 49 "White" "0-8" TRUE FALSE "<1 time per month" 1
+"223" 246 0 21 "Female" "Never" 2.13 59 "White" "12" TRUE FALSE "Never" 4
+"224" 247 0 14 "Female" "Former" 4.58 59 "White" "9-11" FALSE TRUE "Never" 4
+"225" 248 1 21 "Male" "Current" 1.95 68 "Nonwhite" "0-8" FALSE FALSE "1-4 times per month" 5
+"226" 249 1 21 "Female" "Never" 0.59 45 "Nonwhite" "9-11" FALSE FALSE "Never" 2
+"227" 250 1 15 "Male" "Current" 2.62 58 "White" "0-8" TRUE TRUE "<1 time per month" 3
+"228" 251 1 3 "Male" "Never" 1.56 69 "White" "0-8" FALSE TRUE "Never" 5
+"229" 252 1 21 "Male" "Former" 2.62 55 "White" "Some College" TRUE TRUE "Never" 5
+"230" 253 1 19 "Female" "Current" 3.29 65 "White" "9-11" FALSE FALSE "Never" 5
+"231" 254 1 21 "Male" "Never" 3.47 69 "White" "Some College" FALSE TRUE "Never" 4
+"232" 255 1 21 "Male" "Former" 6.41 53 "White" "12" TRUE TRUE "<1 time per month" 3
+"233" 256 1 21 "Male" "Current" 0.81 66 "Nonwhite" "0-8" TRUE FALSE "1-4 times per month" 5
+"234" 257 1 18 "Female" "Never" 3.11 54 "White" "12" TRUE TRUE "Never" 4
+"235" 258 1 13 "Male" "Former" 1.19 73 "White" "0-8" FALSE TRUE "Never" 4
+"236" 259 1 21 "Female" "Former" 2.22 57 "White" "12" TRUE TRUE "Never" 3
+"237" 260 1 21 "Female" "Never" 1.95 67 "White" "9-11" TRUE FALSE "Never" 3
+"238" 261 1 18 "Male" "Current" 3.09 48 "White" "0-8" TRUE TRUE "Never" 4
+"239" 262 1 21 "Female" "Never" 1.56 54 "White" "12" FALSE TRUE "Never" 4
+"240" 263 1 21 "Female" "Current" 4.58 46 "White" "9-11" TRUE TRUE "1-4 times per month" 3
+"241" 264 1 17 "Male" "Never" NA 57 "Nonwhite" "Missing" TRUE FALSE "Never" 3
+"242" 265 1 21 "Female" "Current" 0.92 68 "White" "12" TRUE TRUE "Never" 4
+"243" 266 0 6 "Male" "Current" 2.62 65 "White" "0-8" FALSE TRUE "Just about everyday/everyday" 2
+"244" 267 0 21 "Male" "Never" 0.71 65 "Nonwhite" "0-8" FALSE FALSE "1-4 times per month" 3
+"245" 268 1 8 "Male" "Never" 1.44 72 "White" "0-8" FALSE TRUE "<1 time per month" 4
+"246" 269 0 8 "Male" "Former" 1.11 70 "Nonwhite" "9-11" FALSE TRUE "Never" 2
+"247" 270 1 13 "Female" "Never" 4.21 63 "White" "0-8" TRUE FALSE "Never" 0
+"248" 271 1 21 "Female" "Never" 3.11 55 "White" "9-11" TRUE TRUE "<1 time per month" 3
+"249" 272 1 21 "Female" "Never" 1.53 61 "White" "Some College" FALSE FALSE "Never" 3
+"250" 274 0 21 "Female" "Never" 0.78 69 "Nonwhite" "0-8" FALSE FALSE "Never" 1
+"251" 276 1 2 "Male" "Former" 0.75 67 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 2
+"252" 277 0 2 "Female" "Never" 1.59 69 "White" "0-8" FALSE TRUE "Never" 4
+"253" 278 1 12 "Female" "Never" 3.47 65 "White" "0-8" FALSE TRUE "Never" 5
+"254" 279 1 21 "Male" "Current" 5.39 48 "White" "College Grad" TRUE TRUE "2+ times per week" 5
+"255" 281 1 9 "Male" "Former" 3.47 73 "White" "0-8" FALSE TRUE "Just about everyday/everyday" 5
+"256" 282 1 21 "Female" "Current" 1.65 62 "Nonwhite" "9-11" TRUE FALSE "1-4 times per month" 5
+"257" 283 1 8 "Female" "Never" 3.23 72 "Nonwhite" "12" FALSE FALSE "Never" 3
+"258" 285 1 21 "Female" "Never" 1.24 66 "Nonwhite" "9-11" FALSE FALSE "<1 time per month" 1
+"259" 287 1 3 "Male" "Current" 6.93 71 "White" "9-11" FALSE FALSE "<1 time per month" 5
+"260" 288 1 21 "Male" "Never" 4.58 60 "White" "0-8" TRUE TRUE "Just about everyday/everyday" 1
+"261" 289 1 17 "Female" "Never" 1.03 74 "White" "0-8" FALSE FALSE "Never" 3
+"262" 290 0 21 "Female" "Current" 3.11 57 "White" "12" TRUE TRUE "1-4 times per month" 4
+"263" 291 1 13 "Male" "Former" 2.24 73 "White" "0-8" FALSE TRUE "1-4 times per month" 4
+"264" 293 1 20 "Male" "Current" NA 58 "White" "College Grad" TRUE TRUE "Just about everyday/everyday" 5
+"265" 294 1 21 "Male" "Current" 4.58 54 "White" "12" TRUE TRUE "2+ times per week" 5
+"266" 295 1 21 "Female" "Never" 3.23 57 "White" "9-11" FALSE TRUE "Just about everyday/everyday" 3
+"267" 296 0 9 "Female" "Former" 0.92 66 "White" "0-8" FALSE FALSE "<1 time per month" 2
+"268" 297 0 21 "Female" "Current" 6.41 48 "White" "Some College" FALSE TRUE "<1 time per month" 4
+"269" 298 1 3 "Female" "Current" 2.05 55 "White" "12" TRUE TRUE "1-4 times per month" 5
+"270" 299 0 17 "Female" "Never" 3.11 60 "White" "12" FALSE TRUE "2+ times per week" 4
+"271" 300 0 21 "Male" "Never" 3.47 74 "White" "9-11" FALSE TRUE "Never" 4
+"272" 302 0 6 "Female" "Current" NA 70 "Nonwhite" "0-8" FALSE FALSE "Never" 4
+"273" 303 0 10 "Female" "Never" 0.98 70 "Nonwhite" "0-8" FALSE TRUE "Never" 0
+"274" 304 0 14 "Male" "Never" 0.8 67 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 5
+"275" 305 0 5 "Male" "Never" 1.74 70 "Nonwhite" "0-8" FALSE TRUE "1-4 times per month" 3
+"276" 306 0 10 "Female" "Never" 1.27 69 "White" "9-11" FALSE TRUE "Never" 4
+"277" 308 1 12 "Female" "Never" 0.69 69 "Nonwhite" "0-8" FALSE TRUE "Never" 3
+"278" 309 0 13 "Female" "Former" 0.63 71 "Nonwhite" "0-8" FALSE FALSE "Never" 3
+"279" 312 1 1 "Female" "Never" 0.85 55 "Nonwhite" "0-8" FALSE TRUE "Never" 2
+"280" 313 0 19 "Female" "Never" 1.74 55 "Nonwhite" "0-8" TRUE FALSE "Never" 3
+"281" 314 0 7 "Female" "Never" 0.65 68 "Nonwhite" "0-8" FALSE FALSE "<1 time per month" 3
+"282" 315 0 9 "Female" "Never" 0.66 66 "Nonwhite" "12" FALSE FALSE "Never" 0
+"283" 316 1 21 "Male" "Current" 6.91 65 "White" "College Grad" FALSE TRUE "2+ times per week" 4
+"284" 318 0 21 "Female" "Never" 5.22 47 "White" "College Grad" TRUE TRUE "1-4 times per month" 4
+"285" 319 0 7 "Female" "Never" 1.52 70 "White" "0-8" FALSE TRUE "Never" 1
+"286" 320 1 20 "Female" "Current" 1.34 65 "White" "Some College" FALSE FALSE "1-4 times per month" 3
+"287" 322 0 10 "Male" "Current" 1.22 73 "White" "12" FALSE FALSE "<1 time per month" 5
+"288" 323 1 17 "Male" "Never" 4.09 65 "White" "9-11" FALSE TRUE "Just about everyday/everyday" 4
+"289" 324 1 21 "Female" "Current" 2.54 56 "White" "9-11" TRUE TRUE "Never" 3
+"290" 325 1 7 "Male" "Current" 2.54 72 "White" "College Grad" TRUE TRUE "2+ times per week" 4
+"291" 326 0 8 "Male" "Current" 0.83 70 "Nonwhite" "0-8" FALSE FALSE "1-4 times per month" 5
+"292" 327 1 17 "Female" "Current" NA 68 "White" "12" FALSE TRUE "2+ times per week" 4
+"293" 328 0 21 "Female" "Current" 0.81 49 "Nonwhite" "9-11" FALSE FALSE "Never" 2
+"294" 329 0 21 "Female" "Current" 8.86 55 "White" "College Grad" FALSE TRUE "Just about everyday/everyday" 3
+"295" 330 1 21 "Female" "Never" 3.01 64 "White" "12" FALSE TRUE "Just about everyday/everyday" 5
+"296" 332 0 8 "Male" "Never" 1.21 68 "Nonwhite" "0-8" FALSE FALSE "Never" 3
+"297" 333 1 21 "Female" "Current" NA 47 "White" "Some College" TRUE TRUE "Just about everyday/everyday" 5
+"298" 334 0 21 "Female" "Never" 4.43 63 "White" "9-11" FALSE TRUE "<1 time per month" 4
+"299" 335 1 21 "Female" "Never" 8.86 56 "White" "12" FALSE TRUE "2+ times per week" 5
+"300" 336 1 13 "Female" "Current" 2.6 60 "White" "Some College" TRUE FALSE "<1 time per month" 5
+"301" 337 0 21 "Male" "Current" 1.42 63 "White" "9-11" FALSE FALSE "2+ times per week" 1
+"302" 338 1 16 "Male" "Former" 1.68 58 "White" "12" FALSE TRUE "<1 time per month" 5
+"303" 339 1 21 "Male" "Current" 3.01 58 "White" "12" TRUE TRUE "1-4 times per month" 5
+"304" 340 1 21 "Male" "Former" 3.01 48 "White" "12" TRUE TRUE "<1 time per month" 5
+"305" 341 1 21 "Male" "Former" 1.62 66 "White" "Some College" TRUE TRUE "Just about everyday/everyday" 3
+"306" 342 1 16 "Male" "Former" NA 71 "White" "12" FALSE TRUE "2+ times per week" 5
+"307" 343 1 21 "Female" "Never" 1.09 55 "Nonwhite" "9-11" TRUE FALSE "Never" 1
+"308" 344 1 21 "Male" "Current" 0.49 66 "Nonwhite" "0-8" FALSE TRUE "Never" 4
+"309" 345 0 21 "Female" "Never" 2.28 45 "White" "12" FALSE FALSE "<1 time per month" 4
+"310" 346 0 7 "Female" "Never" 1.92 70 "White" "12" FALSE TRUE "Never" 4
+"311" 347 1 11 "Female" "Never" 3.36 67 "White" "12" FALSE TRUE "Never" 4
+"312" 348 1 14 "Male" "Former" 4.94 67 "White" "College Grad" FALSE TRUE "Never" 5
+"313" 349 1 14 "Male" "Current" 4.43 51 "White" "9-11" TRUE TRUE "1-4 times per month" 4
+"314" 351 0 21 "Female" "Former" 2.54 51 "White" "College Grad" FALSE TRUE "<1 time per month" 4
+"315" 353 1 21 "Female" "Former" 4.08 60 "White" "College Grad" TRUE FALSE "1-4 times per month" 5
+"316" 354 1 12 "Male" "Current" 6.2 55 "White" "12" TRUE FALSE "<1 time per month" 5
+"317" 356 1 21 "Female" "Never" 3.22 50 "White" "12" FALSE TRUE "Never" 5
+"318" 357 1 21 "Male" "Former" 3.73 46 "White" "12" TRUE TRUE "2+ times per week" 5
+"319" 358 1 16 "Male" "Never" 3.36 73 "White" "0-8" FALSE TRUE "<1 time per month" 5
+"320" 359 1 21 "Female" "Never" 2.76 63 "White" "0-8" TRUE TRUE "1-4 times per month" 5
+"321" 360 1 21 "Male" "Former" 2.92 46 "White" "9-11" TRUE TRUE "Never" 3
+"322" 361 1 12 "Male" "Former" 3.36 65 "White" "0-8" FALSE TRUE "1-4 times per month" 4
+"323" 362 1 21 "Female" "Never" 4.43 51 "White" "9-11" TRUE TRUE "1-4 times per month" 2
+"324" 363 1 15 "Female" "Current" 4.43 54 "White" "12" FALSE TRUE "2+ times per week" 2
+"325" 364 1 17 "Male" "Current" 3.01 59 "White" "9-11" TRUE TRUE "Never" 4
+"326" 365 1 21 "Male" "Current" 2.48 52 "White" "12" TRUE TRUE "Never" 5
+"327" 366 0 17 "Female" "Never" 6.91 68 "White" "9-11" FALSE TRUE "Just about everyday/everyday" 3
+"328" 367 0 14 "Female" "Current" NA 63 "White" "College Grad" FALSE FALSE "Just about everyday/everyday" 4
+"329" 368 1 14 "Female" "Former" 4.09 65 "Nonwhite" "0-8" TRUE TRUE "Never" 2
+"330" 369 0 21 "Female" "Current" 0.39 49 "White" "0-8" FALSE FALSE "Never" 2
+"331" 370 1 20 "Male" "Current" 2.22 59 "White" "12" TRUE FALSE "2+ times per week" 4
+"332" 371 0 20 "Male" "Never" 0.55 45 "White" "0-8" FALSE FALSE "Never" 4
+"333" 372 1 15 "Male" "Never" 1.03 69 "White" "0-8" FALSE TRUE "1-4 times per month" 4
+"334" 373 1 13 "Female" "Never" 3.47 65 "White" "Some College" TRUE FALSE "1-4 times per month" 5
+"335" 374 0 21 "Female" "Never" 0.96 66 "White" "0-8" FALSE FALSE "Never" 2
+"336" 375 0 12 "Male" "Never" 0.72 66 "White" "0-8" TRUE TRUE "2+ times per week" 3
+"337" 377 0 7 "Male" "Former" 2.08 74 "White" "Some College" FALSE TRUE "Never" 1
+"338" 378 0 20 "Male" "Current" 1.22 66 "White" "0-8" FALSE TRUE "1-4 times per month" 2
+"339" 379 0 5 "Female" "Current" 0.56 69 "White" "0-8" FALSE FALSE "1-4 times per month" 1
+"340" 380 1 13 "Female" "Never" 0.75 73 "Nonwhite" "0-8" TRUE FALSE "Never" 1
+"341" 381 1 8 "Male" "Never" 3.01 60 "White" "9-11" TRUE TRUE "Never" 4
+"342" 382 1 21 "Male" "Never" 0.58 57 "White" "0-8" TRUE TRUE "<1 time per month" 4
+"343" 384 0 20 "Female" "Former" 0.62 69 "White" "0-8" FALSE TRUE "Never" 4
+"344" 385 1 21 "Female" "Current" 6.2 46 "White" "12" TRUE FALSE "Just about everyday/everyday" 1
+"345" 386 0 4 "Male" "Never" 1.25 70 "White" "0-8" FALSE TRUE "2+ times per week" 5
+"346" 388 0 21 "Female" "Never" 1.4 61 "White" "0-8" FALSE TRUE "Never" 3
+"347" 389 1 4 "Male" "Former" 4.09 66 "Nonwhite" "0-8" FALSE TRUE "Never" 3
+"348" 390 1 21 "Male" "Former" 1.45 65 "White" "0-8" FALSE FALSE "Never" 5
+"349" 391 0 21 "Female" "Never" 0.37 62 "White" "0-8" FALSE FALSE "Never" 2
+"350" 392 0 8 "Male" "Former" 0.97 67 "White" "0-8" FALSE TRUE "Never" 3
+"351" 393 1 19 "Male" "Current" 1.22 71 "White" "0-8" TRUE TRUE "Just about everyday/everyday" 2
+"352" 394 1 20 "Male" "Current" 1.42 54 "White" "0-8" TRUE TRUE "Just about everyday/everyday" 4
+"353" 395 1 21 "Female" "Never" 0.88 49 "White" "0-8" FALSE TRUE "1-4 times per month" 1
+"354" 396 0 4 "Female" "Former" 0.54 63 "White" "0-8" FALSE TRUE "Never" 5
+"355" 397 1 21 "Female" "Former" 0.86 57 "White" "0-8" TRUE FALSE "<1 time per month" 2
+"356" 398 1 21 "Male" "Never" 1.49 60 "White" "0-8" TRUE TRUE "<1 time per month" 3
+"357" 399 1 21 "Male" "Never" 1.99 48 "White" "12" TRUE TRUE "2+ times per week" 4
+"358" 400 1 12 "Female" "Current" 6.2 64 "White" "12" TRUE TRUE "1-4 times per month" 5
+"359" 401 1 12 "Female" "Never" 1.93 65 "Nonwhite" "Some College" TRUE FALSE "1-4 times per month" 3
+"360" 402 1 18 "Male" "Current" 0.44 58 "White" "12" FALSE TRUE "1-4 times per month" 4
+"361" 403 1 21 "Female" "Never" NA 65 "White" "9-11" TRUE TRUE "Never" 1
+"362" 404 0 21 "Female" "Never" 0.87 68 "Nonwhite" "0-8" FALSE TRUE "1-4 times per month" 3
+"363" 405 1 20 "Male" "Never" 2.39 58 "White" "0-8" TRUE TRUE "Never" 5
+"364" 406 1 4 "Male" "Current" 1.26 65 "White" "9-11" TRUE TRUE "Never" 3
+"365" 407 1 21 "Female" "Current" 0.91 68 "Nonwhite" "0-8" TRUE FALSE "1-4 times per month" 2
+"366" 408 0 5 "Female" "Current" 0.72 67 "White" "0-8" FALSE FALSE "Never" 3
+"367" 409 1 13 "Male" "Current" 1.33 67 "Nonwhite" "0-8" TRUE TRUE "1-4 times per month" 5
+"368" 410 0 21 "Female" "Never" 0.35 64 "White" "0-8" FALSE FALSE "Never" 4
+"369" 411 1 21 "Male" "Never" 1.75 60 "White" "0-8" TRUE TRUE "Never" 4
+"370" 413 0 5 "Male" "Current" 0.13 67 "Nonwhite" "0-8" FALSE FALSE "<1 time per month" 2
+"371" 414 0 1 "Male" "Current" 0.73 55 "Nonwhite" "0-8" FALSE FALSE "Never" 1
+"372" 415 0 21 "Female" "Never" 1.02 50 "Nonwhite" "0-8" FALSE TRUE "1-4 times per month" 2
+"373" 416 1 20 "Male" "Never" 0.58 69 "Nonwhite" "0-8" TRUE TRUE "Never" 5
+"374" 417 1 21 "Female" "Never" 0.75 67 "White" "0-8" FALSE TRUE "Never" 3
+"375" 418 1 21 "Female" "Never" 0.44 74 "White" "0-8" FALSE FALSE "Never" 4
+"376" 419 1 11 "Female" "Never" 9.88 68 "White" "Some College" FALSE TRUE "Never" 4
+"377" 420 0 21 "Female" "Never" 2.74 56 "Nonwhite" "0-8" TRUE FALSE "<1 time per month" 3
+"378" 421 1 20 "Female" "Current" 3.22 45 "Nonwhite" "0-8" TRUE TRUE "<1 time per month" 0
+"379" 422 1 13 "Male" "Current" 3.77 48 "White" "0-8" TRUE TRUE "<1 time per month" 4
+"380" 423 1 21 "Male" "Current" 0.59 68 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 4
+"381" 424 1 14 "Female" "Never" 0.59 69 "Nonwhite" "0-8" FALSE TRUE "Never" 5
+"382" 425 0 3 "Male" "Current" 1.11 69 "White" "0-8" FALSE TRUE "Never" 3
+"383" 426 0 17 "Male" "Never" 0.7 72 "Nonwhite" "0-8" FALSE TRUE "1-4 times per month" 3
+"384" 427 1 20 "Male" "Never" 1.55 66 "White" "0-8" FALSE TRUE "Never" 5
+"385" 428 1 15 "Male" "Former" 0.7 71 "Nonwhite" "0-8" FALSE FALSE "<1 time per month" 2
+"386" 429 0 10 "Male" "Never" 0.74 66 "Nonwhite" "0-8" FALSE TRUE "Never" 0
+"387" 430 0 20 "Female" "Never" 0.19 52 "Nonwhite" "0-8" FALSE TRUE "Never" 2
+"388" 431 0 12 "Male" "Current" 1.79 66 "Nonwhite" "0-8" TRUE TRUE "1-4 times per month" 3
+"389" 432 0 21 "Female" "Never" 0.69 66 "Nonwhite" "0-8" TRUE FALSE "<1 time per month" 3
+"390" 433 1 21 "Male" "Current" 1.04 71 "White" "0-8" FALSE TRUE "Never" 4
+"391" 434 1 16 "Male" "Current" 3.73 51 "White" "9-11" TRUE TRUE "<1 time per month" 3
+"392" 435 0 17 "Male" "Never" 2.33 71 "White" "0-8" FALSE TRUE "Never" 5
+"393" 437 1 18 "Male" "Never" 1.01 69 "Nonwhite" "0-8" FALSE TRUE "Never" 5
+"394" 438 1 18 "Female" "Never" 0.36 74 "Nonwhite" "9-11" FALSE FALSE "<1 time per month" 2
+"395" 439 1 15 "Male" "Never" 2.24 72 "White" "0-8" FALSE TRUE "Never" 5
+"396" 440 1 9 "Female" "Never" NA 69 "White" "College Grad" FALSE FALSE "Never" 4
+"397" 442 0 21 "Male" "Current" 0.17 56 "Nonwhite" "0-8" FALSE TRUE "Never" 1
+"398" 443 1 21 "Female" "Never" 1.33 68 "Nonwhite" "0-8" FALSE TRUE "Never" 2
+"399" 444 1 21 "Female" "Never" 0.83 64 "White" "0-8" FALSE FALSE "Never" 3
+"400" 445 1 16 "Male" "Current" 0.77 56 "Nonwhite" "0-8" TRUE FALSE "Never" 3
+"401" 446 0 1 "Male" "Current" 0.34 58 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 3
+"402" 447 1 21 "Male" "Current" 2.2 45 "White" "12" TRUE TRUE "1-4 times per month" 4
+"403" 448 0 15 "Female" "Current" 4.08 54 "White" "Some College" FALSE FALSE "<1 time per month" 3
+"404" 449 1 7 "Male" "Former" 0.51 73 "Nonwhite" "0-8" TRUE TRUE "Never" 3
+"405" 450 1 21 "Male" "Current" 2.92 51 "White" "0-8" TRUE TRUE "Just about everyday/everyday" 4
+"406" 451 1 7 "Male" "Current" 8.89 68 "White" "9-11" FALSE TRUE "1-4 times per month" 5
+"407" 452 1 21 "Female" "Never" 1.33 60 "White" "9-11" TRUE FALSE "Never" 0
+"408" 453 1 2 "Male" "Never" 0.48 64 "Nonwhite" "0-8" FALSE TRUE "1-4 times per month" 1
+"409" 454 0 21 "Female" "Former" 0.83 67 "Nonwhite" "0-8" FALSE TRUE "Never" 2
+"410" 455 1 21 "Male" "Current" 3.73 55 "White" "9-11" TRUE TRUE "Never" 4
+"411" 456 1 10 "Male" "Former" 0.91 69 "White" "0-8" FALSE TRUE "Never" 3
+"412" 457 1 21 "Male" "Never" 0.38 47 "Nonwhite" "0-8" TRUE TRUE "1-4 times per month" 5
+"413" 458 1 7 "Male" "Current" 4.4 52 "White" "9-11" TRUE TRUE "<1 time per month" 5
+"414" 459 1 15 "Female" "Never" 0.71 64 "Nonwhite" "0-8" FALSE FALSE "Never" 1
+"415" 460 1 21 "Female" "Never" 3.54 50 "White" "0-8" FALSE TRUE "Never" 3
+"416" 461 1 6 "Female" "Never" 0.24 74 "Nonwhite" "0-8" FALSE FALSE "Never" 0
+"417" 462 1 21 "Female" "Never" 1.22 51 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 3
+"418" 463 0 16 "Male" "Never" 0.38 67 "Nonwhite" "0-8" FALSE TRUE "Never" 3
+"419" 464 1 21 "Female" "Never" 1.92 65 "White" "0-8" FALSE FALSE "Never" 3
+"420" 465 0 21 "Female" "Current" 8.86 51 "White" "Some College" FALSE TRUE "<1 time per month" 3
+"421" 466 1 12 "Female" "Never" 1.79 68 "White" "0-8" FALSE FALSE "Never" 4
+"422" 467 0 3 "Male" "Former" 1.4 65 "Nonwhite" "0-8" FALSE TRUE "Never" 3
+"423" 468 1 18 "Male" "Never" 2.54 59 "White" "9-11" TRUE TRUE "Just about everyday/everyday" 4
+"424" 469 0 13 "Female" "Current" 1.35 68 "White" "0-8" FALSE FALSE "<1 time per month" 4
+"425" 471 1 12 "Female" "Never" 1.07 65 "Nonwhite" "0-8" FALSE TRUE "Never" 4
+"426" 472 1 21 "Male" "Former" 6.91 65 "White" "12" TRUE TRUE "Never" 5
+"427" 473 1 12 "Male" "Never" 3.36 72 "White" "Some College" FALSE TRUE "<1 time per month" 4
+"428" 474 1 21 "Female" "Never" 3.01 47 "White" "12" TRUE TRUE "<1 time per month" 4
+"429" 475 1 21 "Male" "Former" 8.89 66 "White" "12" TRUE TRUE "1-4 times per month" 5
+"430" 476 0 8 "Female" "Never" 1.04 69 "White" "0-8" FALSE TRUE "Never" 2
+"431" 477 1 21 "Female" "Current" 1.13 64 "White" "9-11" TRUE TRUE "Never" 4
+"432" 478 1 16 "Female" "Never" 0.47 67 "Nonwhite" "0-8" FALSE FALSE "<1 time per month" 2
+"433" 479 1 5 "Female" "Never" 0.65 70 "White" "0-8" FALSE TRUE "<1 time per month" 2
+"434" 480 1 21 "Male" "Former" 1.06 51 "Nonwhite" "0-8" TRUE TRUE "Never" 4
+"435" 481 1 5 "Male" "Never" 2.13 57 "White" "0-8" TRUE TRUE "Never" 1
+"436" 483 0 21 "Female" "Never" 1 69 "White" "0-8" FALSE TRUE "Never" 0
+"437" 484 0 5 "Male" "Current" 1.1 72 "Nonwhite" "0-8" FALSE TRUE "1-4 times per month" 0
+"438" 485 0 12 "Female" "Never" 1.1 68 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 1
+"439" 486 1 5 "Female" "Never" NA 70 "White" "9-11" FALSE FALSE "Never" 4
+"440" 487 1 21 "Male" "Former" 1.26 45 "White" "0-8" TRUE TRUE "1-4 times per month" 4
+"441" 490 1 9 "Male" "Never" 0.93 65 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 4
+"442" 491 1 16 "Male" "Former" 0.8 68 "Nonwhite" "0-8" FALSE TRUE "Never" 3
+"443" 492 0 18 "Female" "Never" 0.7 67 "White" "0-8" FALSE TRUE "Never" 1
+"444" 494 1 19 "Male" "Current" 2.08 56 "White" "0-8" FALSE TRUE "Never" 3
+"445" 496 1 21 "Male" "Never" 0.25 54 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 4
+"446" 497 1 21 "Female" "Never" 1.83 65 "White" "0-8" FALSE TRUE "Never" 3
+"447" 498 1 21 "Female" "Never" 1.85 55 "White" "0-8" TRUE TRUE "1-4 times per month" 0
+"448" 499 1 21 "Male" "Former" 0.55 68 "White" "0-8" FALSE TRUE "Never" 2
+"449" 500 1 4 "Male" "Never" 1.51 74 "Nonwhite" "0-8" FALSE TRUE "Never" 2
+"450" 501 1 21 "Female" "Never" 1.1 65 "White" "0-8" FALSE FALSE "Never" 3
+"451" 502 1 21 "Male" "Never" 4.4 54 "White" "0-8" TRUE TRUE "1-4 times per month" 4
+"452" 503 1 21 "Male" "Former" 1.13 45 "White" "9-11" TRUE TRUE "1-4 times per month" 3
+"453" 504 1 8 "Male" "Never" 0.56 65 "White" "0-8" TRUE TRUE "1-4 times per month" 3
+"454" 505 1 21 "Male" "Former" 2.29 51 "White" "12" TRUE TRUE "1-4 times per month" 5
+"455" 506 1 10 "Female" "Never" 0.66 73 "White" "0-8" FALSE FALSE "2+ times per week" 5
+"456" 507 1 11 "Female" "Current" 0.4 69 "White" "0-8" FALSE TRUE "Never" 3
+"457" 508 0 20 "Female" "Never" 1.26 65 "White" "9-11" FALSE TRUE "Never" 3
+"458" 509 1 21 "Male" "Never" 0.21 65 "White" "0-8" TRUE TRUE "<1 time per month" 3
+"459" 510 1 21 "Male" "Never" 1.04 45 "White" "12" TRUE TRUE "1-4 times per month" 4
+"460" 511 1 18 "Male" "Never" 0.69 69 "White" "0-8" FALSE FALSE "1-4 times per month" 3
+"461" 512 0 4 "Female" "Never" 0.77 68 "White" "0-8" FALSE TRUE "Never" 1
+"462" 513 1 15 "Female" "Never" 1.01 49 "Nonwhite" "0-8" FALSE TRUE "1-4 times per month" 4
+"463" 514 1 21 "Male" "Former" 2.38 54 "White" "0-8" TRUE TRUE "1-4 times per month" 5
+"464" 515 0 6 "Male" "Current" 1.13 68 "White" "0-8" FALSE TRUE "Just about everyday/everyday" 3
+"465" 516 1 18 "Female" "Never" 0.85 67 "White" "0-8" FALSE FALSE "Never" 1
+"466" 517 1 6 "Male" "Never" 0.18 61 "White" "0-8" TRUE TRUE "Just about everyday/everyday" 5
+"467" 518 1 21 "Male" "Current" 0.82 53 "White" "0-8" TRUE TRUE "1-4 times per month" 5
+"468" 519 0 21 "Female" "Never" 0.59 63 "Nonwhite" "0-8" FALSE TRUE "Never" 2
+"469" 520 1 21 "Male" "Never" 2.33 47 "White" "9-11" TRUE TRUE "Never" 3
+"470" 521 1 15 "Male" "Current" 0.71 49 "White" "0-8" TRUE TRUE "1-4 times per month" 4
+"471" 522 1 12 "Male" "Current" 0.7 63 "White" "0-8" FALSE TRUE "1-4 times per month" 4
+"472" 523 1 21 "Male" "Former" 1.42 50 "White" "12" TRUE TRUE "<1 time per month" 5
+"473" 524 1 21 "Male" "Former" 1.07 67 "White" "0-8" FALSE TRUE "Never" 4
+"474" 525 0 19 "Male" "Current" 3.54 54 "White" "9-11" TRUE TRUE "1-4 times per month" 2
+"475" 526 1 21 "Male" "Former" 0.53 58 "White" "0-8" TRUE TRUE "Never" 4
+"476" 527 1 20 "Male" "Never" NA 65 "Nonwhite" "0-8" TRUE TRUE "1-4 times per month" 5
+"477" 528 0 9 "Female" "Never" 0.68 45 "Nonwhite" "9-11" FALSE FALSE "<1 time per month" 0
+"478" 529 0 18 "Female" "Never" 0.55 62 "White" "0-8" FALSE TRUE "Never" 4
+"479" 530 1 21 "Male" "Former" 3.54 57 "White" "College Grad" TRUE TRUE "<1 time per month" 5
+"480" 531 1 21 "Female" "Never" 3.01 57 "White" "9-11" FALSE TRUE "<1 time per month" 3
+"481" 532 1 10 "Male" "Current" 0.92 63 "Nonwhite" "0-8" TRUE TRUE "2+ times per week" 4
+"482" 533 0 10 "Male" "Former" 0.94 73 "White" "0-8" FALSE TRUE "Just about everyday/everyday" 3
+"483" 534 1 13 "Male" "Former" 2.33 47 "White" "9-11" TRUE TRUE "1-4 times per month" 5
+"484" 535 1 21 "Male" "Never" 1.5 52 "White" "0-8" FALSE TRUE "Never" 5
+"485" 536 1 21 "Male" "Current" 2.13 60 "White" "0-8" FALSE TRUE "<1 time per month" 5
+"486" 537 1 3 "Male" "Never" 0.35 68 "Nonwhite" "0-8" FALSE TRUE "Never" 1
+"487" 538 1 20 "Female" "Never" 0.7 48 "White" "12" FALSE TRUE "Never" 3
+"488" 539 1 3 "Male" "Current" NA 64 "White" "0-8" TRUE TRUE "Just about everyday/everyday" 3
+"489" 540 1 21 "Female" "Never" 0.75 54 "Nonwhite" "0-8" TRUE FALSE "Never" 4
+"490" 541 1 21 "Female" "Never" 4.25 68 "White" "Some College" FALSE FALSE "<1 time per month" 4
+"491" 542 1 10 "Male" "Current" 0.38 47 "Nonwhite" "0-8" TRUE TRUE "Never" 5
+"492" 543 1 21 "Male" "Never" 3.36 65 "White" "Missing" TRUE FALSE "<1 time per month" 3
+"493" 544 1 16 "Male" "Never" 1.19 71 "White" "0-8" TRUE TRUE "Never" 5
+"494" 545 1 15 "Male" "Never" 0.79 60 "Nonwhite" "9-11" FALSE TRUE "Just about everyday/everyday" 0
+"495" 546 1 21 "Female" "Current" 1.62 60 "White" "12" FALSE TRUE "Never" 2
+"496" 547 1 10 "Female" "Never" 0.81 66 "White" "0-8" FALSE TRUE "Never" 3
+"497" 548 1 21 "Female" "Never" 1.5 61 "White" "12" FALSE TRUE "2+ times per week" 3
+"498" 549 1 21 "Male" "Never" 0.65 67 "Nonwhite" "0-8" FALSE TRUE "<1 time per month" 5
+"499" 550 1 14 "Male" "Current" 2.2 50 "Nonwhite" "0-8" TRUE TRUE "1-4 times per month" 5
+"500" 551 0 13 "Female" "Never" 1.2 73 "Nonwhite" "0-8" FALSE FALSE "Never" 1
