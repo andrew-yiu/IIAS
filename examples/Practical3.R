@@ -6,7 +6,7 @@
 ### Section 3 ###
 #################
 
-nhanes <- read.table(file = "~/Downloads/nhanes_sub.csv")
+nhanes <- read.table(file = "~/Downloads/IIAS-main/data/nhanes_sub.csv")
 
 y <- nhanes$years.lived.since.1971.up.to.1992
 t <- nhanes$physically.active
