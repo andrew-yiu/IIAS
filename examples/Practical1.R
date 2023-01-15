@@ -7,7 +7,7 @@
 #################
 
 ## load data
-lalonde <- read.table(file = "~/Downloads/lalonde_nsw.csv") # change filepath accordingly
+lalonde <- read.table(file = "~/Downloads/IIAS-main/data/lalonde_nsw.csv") # change filepath accordingly
 
 ## extract variables
 y <- lalonde$re78
